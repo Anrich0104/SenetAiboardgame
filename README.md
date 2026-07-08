@@ -126,6 +126,3 @@ Across self-play training, win rate stabilizes near 50% for symmetric agents sha
 
 Mitchell, T. (1997). *Machine Learning*. Watkins, C. (1989). *Learning from Delayed Rewards*. Sutton, R. & Barto, A. (2018). *Reinforcement Learning: An Introduction*. Piccione, R. (1980). *In Search of the Meaning of Senet*. Mnih, V. et al. (2015). *Human-level control through deep reinforcement learning*.
 
-## License
-
-Add your preferred license here (e.g. MIT).
